@@ -1,0 +1,15 @@
+{
+  "name": "publisher-web",
+  "owner": { "name": "publisher-web" },
+  "metadata": { "description": "Claude Code skills by publisher-web" },
+  "plugins": [
+    {
+      "name": "desktop-control",
+      "source": "./plugins/desktop-control",
+      "description": "Windows の画面を見て操作するスキル（窓の切り替え・ボタン一覧・文字で探してクリック・文字入力・キー・スクショ・OCR）",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["windows", "desktop", "gui", "automation", "ocr"]
+    }
+  ]
+}

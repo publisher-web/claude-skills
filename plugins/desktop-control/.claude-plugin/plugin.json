@@ -1,0 +1,9 @@
+{
+  "name": "desktop-control",
+  "version": "1.0.0",
+  "description": "Windows の画面を見て操作するスキル（UI Automation + OCR + SendInput）",
+  "author": { "name": "publisher-web" },
+  "homepage": "https://github.com/publisher-web/claude-skills",
+  "repository": "https://github.com/publisher-web/claude-skills",
+  "license": "MIT"
+}

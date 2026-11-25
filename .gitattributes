@@ -1,0 +1,4 @@
+*.ps1 -text
+*.cs -text
+*.md text eol=lf
+*.json text eol=lf
